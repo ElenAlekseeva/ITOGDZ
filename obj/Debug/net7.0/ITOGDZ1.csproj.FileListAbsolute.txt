@@ -1,0 +1,15 @@
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/bin/Debug/net7.0/ITOGDZ1
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/bin/Debug/net7.0/ITOGDZ1.deps.json
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/bin/Debug/net7.0/ITOGDZ1.runtimeconfig.json
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/bin/Debug/net7.0/ITOGDZ1.dll
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/bin/Debug/net7.0/ITOGDZ1.pdb
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ITOGDZ1.csproj.AssemblyReference.cache
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ITOGDZ1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ITOGDZ1.AssemblyInfoInputs.cache
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ITOGDZ1.AssemblyInfo.cs
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ITOGDZ1.csproj.CoreCompileInputs.cache
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ITOGDZ1.dll
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/refint/ITOGDZ1.dll
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ITOGDZ1.pdb
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ITOGDZ1.genruntimeconfig.cache
+/Users/elena/Downloads/ITOGDZ/ITOGDZ1/obj/Debug/net7.0/ref/ITOGDZ1.dll
